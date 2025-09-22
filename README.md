@@ -10,8 +10,7 @@
 
   <p>
   Tôi là một lập trình viên với niềm đam mê nghiên cứu và khám phá tri thức mới.<br>
-  Với nền tảng kỹ thuật vững chắc và sự quan tâm sâu sắc đến văn hóa, lịch sử,<br>
-  tôi luôn tìm cách kết hợp công nghệ và nhân văn để tạo ra những giá trị tích cực cho cộng đồng.
+  Với nền tảng kỹ thuật vững chắc và sự quan tâm sâu sắc đến văn hóa, lịch sử, tôi luôn tìm cách kết hợp công nghệ và nhân văn để tạo ra những giá trị tích cực cho cộng đồng.
   </p>
 
 </div>

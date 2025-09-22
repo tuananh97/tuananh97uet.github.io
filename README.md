@@ -16,6 +16,12 @@
 
   <hr style="border:0; border-top:1px solid #444; margin:20px 0;">
 
+  <h2>🎓 Học vấn</h2>
+  <p><b>Tốt nghiệp loại Giỏi</b> ngành <b>Công nghệ thông tin</b><br>
+  Trường Đại học Công nghệ – Đại học Quốc gia Hà Nội (UET – VNU)</p>
+
+  <hr style="border:0; border-top:1px solid #444; margin:20px 0;">
+
   <h2>🌟 Sở thích & Đam mê</h2>
 
   <h3>📖 Nghiên cứu kiến thức</h3>

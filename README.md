@@ -1,8 +1,10 @@
-<h1 align="center" style="font-size:32px; font-weight:700; background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+<h1 align="center" style="font-size:34px; font-weight:800; background: linear-gradient(90deg, #ff7eb3, #65d4ff, #8ef6a0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   Canh Vân Tử (耕雲子)
 </h1>
 
-<div style="border:2px solid #0072ff; border-radius:12px; padding:22px; background:#0d1117; color:#e6edf3; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:1.6;">
+<div style="border:2px solid transparent; border-radius:14px; padding:24px; background:linear-gradient(#0d1117, #0d1117) padding-box, 
+            linear-gradient(135deg, #ff7eb3, #65d4ff, #8ef6a0) border-box; 
+            color:#e6edf3; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:16px; line-height:1.7; box-shadow:0 0 20px rgba(101,212,255,0.5);">
 
   <p><b>💻 Lập trình viên & 📚 Nhà nghiên cứu văn hóa</b></p>
 
